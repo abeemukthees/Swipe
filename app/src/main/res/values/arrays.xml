@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="lesson_icons">
+        <item>@drawable/ic_directions_car</item>
+        <item>@drawable/ic_airport_shuttle</item>
+        <item>@drawable/ic_cake</item>
+        <item>@drawable/ic_local_laundry</item>
+        <item>@drawable/ic_local_pizza</item>
+        <item>@drawable/ic_location_city</item>
+        <item>@drawable/ic_memory</item>
+        <item>@drawable/ic_school</item>
+        <item>@drawable/ic_spa</item>
+        <item>@drawable/ic_palette</item>
+    </array>
+
+    <string-array name="lesson_titles">
+        <item>Car</item>
+        <item>Airport Shuttle</item>
+        <item>Cake</item>
+        <item>Laundry</item>
+        <item>Pizza</item>
+        <item>Location City</item>
+        <item>Memory</item>
+        <item>School</item>
+        <item>Spa</item>
+        <item>Palette</item>
+    </string-array>
+
+</resources>
